@@ -1,0 +1,12 @@
+<dependencies>
+    <androidPackages>
+        <repositories>
+            <repository>https://developer.huawei.com/repo/</repository>
+        </repositories>
+        
+        <androidPackage spec= "com.huawei.agconnect:agconnect-core:1.7.3.300" />
+        <androidPackage spec= "com.huawei.hms:ads-identifier:3.4.58.301"/>
+        <androidPackage spec= "com.huawei.hms:opendevice:6.7.0.300"/>
+    </androidPackages>
+
+</dependencies>
