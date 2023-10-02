@@ -1,10 +1,37 @@
-## [3.5.0] - 2023-01-31 
+## [3.6.5] - 2023-09-25
+- Fixed a session tracking issues for win standalone platform.
+- Fixed a crash occurred in the editor on the macOS platform if the application key was empty
+## [3.6.4] - 2023-07-19
+- Implemented devtodevId update mechanism
+- A/B-test module minor fixes.
+- Fixed a bug that occurred when the RemoteConfig module was called before the Analytics module.
+## [3.6.3] - 2023-06-9
+- Added xCode 14.3 support.
+- Fixed the logic of the CustomEvent method when it was called without parameters.
+
+## [3.6.2] - 2023-06-2
+- Fixed Ab-test logic.
+- Fixed the logic of the AddImpression method.
+- Updated Android dependencies.
+
+## [3.6.1] - 2023-05-5
+- Removed support for bitcode for Apple platforms(deprecated in Xcode 14).
+- Fixed Ab-test logic for Android platform.
+
+## [3.6.0] - 2023-04-23
+- Fixed SQLiteConstraintException for Android platform.
+- Fixed the logic of opening push notifications from different push campaigns for IOS & Android platforms.
+- Added functionality that allows you to bring the application into compliance with COPPA (Children's Online Privacy Protection Act) for WSA platform.
+- Added more methods for working with DTDRemoteConfig that will facilitate integration and testing for WSA & Windows standalone platforms.
+- Minor improvements and fixes, stability enhancements.
+
+## [3.5.0] - 2023-01-31
 - Added functionality that allows you to bring the application into compliance with COPPA (Children's Online Privacy Protection Act) for Android platform.
 - Added more methods for working with DTDRemoteConfig that will facilitate integration and testing.
 - Huawei services support for Android platform.
 - Minor changes in the A/B testing module for Apple and Android platforms.
 - Fixed problems with SQLlite for Apple and Android platforms.
-- Minor improvements and fixes, stability enhancements. 
+- Minor improvements and fixes, stability enhancements.
 
 ## [3.4.0] - 2022-11-23
 - Added A/B test functionality (Beta) for Windows and WSA(UWP) platforms.

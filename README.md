@@ -1,6 +1,6 @@
 Latest Version
 --------------
-##### _January 31, 2023_ - [v3.5.0](https://github.com/devtodev-analytics/package_Huawei/releases/latest)
+##### _October 2, 2023_ - [v3.6.5](https://github.com/devtodev-analytics/package_Analytics/releases/latest)
 
 Getting Started
 ---------------
@@ -8,4 +8,4 @@ Full description of the integration process of devtodev SDK and all the accessib
 
 Changelog
 ---------
-See [Changelog]([https://github.com/devtodev-analytics/package_Huawei/blob/main/CHANGELOG.md])
+See [Changelog]([https://github.com/devtodev-analytics/package_Analytics/blob/main/CHANGELOG.md])
