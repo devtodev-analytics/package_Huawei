@@ -1,6 +1,6 @@
 Latest Version
 --------------
-##### _October 2, 2023_ - [v3.6.5](https://github.com/devtodev-analytics/package_Analytics/releases/latest)
+##### _May 8, 2026_ - [v3.11.0](https://github.com/devtodev-analytics/package_Analytics/releases/latest)
 
 Getting Started
 ---------------
